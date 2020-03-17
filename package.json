@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "js_dependencies_intro1",
+  "version": "1.0.0",
+  "repository": "https://github.com/denissokolow/js_dependencies_intro1.git",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "liner": "^1.0.1",
+    "moment": "^2.24.0"
+  }
+}
